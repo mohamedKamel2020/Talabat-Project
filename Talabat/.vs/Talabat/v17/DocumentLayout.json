@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6E9C93-089E-4E7A-9EC2-D9B3454A2216}|Talabat.Core.Domain\\Talabat.Core.Domain.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\api\\talabat project\\talabat\\talabat.core.domain\\entities\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6E9C93-089E-4E7A-9EC2-D9B3454A2216}|Talabat.Core.Domain\\Talabat.Core.Domain.csproj|solutionrelative:talabat.core.domain\\entities\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6E9C93-089E-4E7A-9EC2-D9B3454A2216}|Talabat.Core.Domain\\Talabat.Core.Domain.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\api\\talabat project\\talabat\\talabat.core.domain\\entities\\products\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6E9C93-089E-4E7A-9EC2-D9B3454A2216}|Talabat.Core.Domain\\Talabat.Core.Domain.csproj|solutionrelative:talabat.core.domain\\entities\\products\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6E9C93-089E-4E7A-9EC2-D9B3454A2216}|Talabat.Core.Domain\\Talabat.Core.Domain.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\api\\talabat project\\talabat\\talabat.core.domain\\entities\\products\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6E9C93-089E-4E7A-9EC2-D9B3454A2216}|Talabat.Core.Domain\\Talabat.Core.Domain.csproj|solutionrelative:talabat.core.domain\\entities\\products\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6E9C93-089E-4E7A-9EC2-D9B3454A2216}|Talabat.Core.Domain\\Talabat.Core.Domain.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\api\\talabat project\\talabat\\talabat.core.domain\\talabat.core.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF6E9C93-089E-4E7A-9EC2-D9B3454A2216}|Talabat.Core.Domain\\Talabat.Core.Domain.csproj|solutionrelative:talabat.core.domain\\talabat.core.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6E9C93-089E-4E7A-9EC2-D9B3454A2216}|Talabat.Core.Domain\\Talabat.Core.Domain.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\api\\talabat project\\talabat\\talabat.core.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6E9C93-089E-4E7A-9EC2-D9B3454A2216}|Talabat.Core.Domain\\Talabat.Core.Domain.csproj|solutionrelative:talabat.core.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B4C986-B365-4165-BC07-45485D6D2D8B}|Talabat.APIs\\Talabat.APIs.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\api\\talabat project\\talabat\\talabat.apis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B4C986-B365-4165-BC07-45485D6D2D8B}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B4C986-B365-4165-BC07-45485D6D2D8B}|Talabat.APIs\\Talabat.APIs.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\api\\talabat project\\talabat\\talabat.apis\\talabat.apis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A4B4C986-B365-4165-BC07-45485D6D2D8B}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\talabat.apis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B4C986-B365-4165-BC07-45485D6D2D8B}|Talabat.APIs\\Talabat.APIs.csproj|c:\\users\\dell\\desktop\\my pc\\programing\\my-code\\back end\\api\\talabat project\\talabat\\talabat.apis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4B4C986-B365-4165-BC07-45485D6D2D8B}|Talabat.APIs\\Talabat.APIs.csproj|solutionrelative:talabat.apis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.Core.Domain\\Entities\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "Talabat.Core.Domain\\Entities\\Products\\Product.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.Core.Domain\\Entities\\Products\\Product.cs",
+              "RelativeToolTip": "Talabat.Core.Domain\\Entities\\Products\\Product.cs",
+              "ViewState": "AgIAAAAAAADAMjMzMzMrwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T00:04:10.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.Core.Domain\\Entities\\Products\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Talabat.Core.Domain\\Entities\\Products\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.Core.Domain\\Entities\\Products\\ProductCategory.cs",
+              "RelativeToolTip": "Talabat.Core.Domain\\Entities\\Products\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T00:03:40.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.Core.Domain\\Entities\\Products\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Talabat.Core.Domain\\Entities\\Products\\ProductBrand.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.Core.Domain\\Entities\\Products\\ProductBrand.cs",
+              "RelativeToolTip": "Talabat.Core.Domain\\Entities\\Products\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T00:02:46.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.Core.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Talabat.Core.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.Core.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Talabat.Core.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T23:43:33.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Talabat.Core.Domain",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.Core.Domain\\Talabat.Core.Domain.csproj",
+              "RelativeDocumentMoniker": "Talabat.Core.Domain\\Talabat.Core.Domain.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.Core.Domain\\Talabat.Core.Domain.csproj",
+              "RelativeToolTip": "Talabat.Core.Domain\\Talabat.Core.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-14T23:42:37.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.APIs\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.APIs\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Talabat.APIs\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAcAAACALzMzMzMnwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:38:09.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Talabat.APIs.http",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.APIs\\Talabat.APIs.http",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Talabat.APIs.http",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.APIs\\Talabat.APIs.http",
+              "RelativeToolTip": "Talabat.APIs\\Talabat.APIs.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-08T15:36:32.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.APIs\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Talabat.APIs\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MY PC\\programing\\My-code\\Back End\\API\\Talabat Project\\Talabat\\Talabat.APIs\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Talabat.APIs\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAACAZGZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T15:30:08.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
